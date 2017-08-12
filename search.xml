@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello-World]]></title>
+    <url>%2F2017%2F08%2F10%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Hello Wrold 博客搭建好以后第一件事要做的当然是测试 前言 在修仙的过程中感到无聊，而又看到一篇关于Hexo静态博客搭建的文章，索性就试了试。该博客托管于GitHub和Coding。 开始测试域名看能不能正常访问 GitHub：http://pgnil.github.io Coding：http;//pgnil.coding.me Dnspod：http://ling123.tk (自动解析，海外解析到GitHub，国内解析到Coding) 博客文章发表如果内看到此界面则说明博客可以正常发表 图片 代码print(&quot;hello python&quot;) 特殊标记斜体 粗体 删除线 完]]></content>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+</search>
